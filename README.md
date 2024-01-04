@@ -45,6 +45,5 @@ After installation, access the Expense Chart application through your web browse
 ## Technologies Used
 
 - **React.js:** Front-end library for building user interfaces.
-- **HTML:** Markup language for structuring the content of the web application.
 - **CSS:** Stylesheet language for enhancing the visual presentation of the application.
 - **JavaScript (ES6):** Programming language for adding dynamic and interactive features to the Expense Chart web application.
